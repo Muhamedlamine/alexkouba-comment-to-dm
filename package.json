@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.21.2"},"description":"Official Meta API comment-to-DM webhook server for Alex Kouba's workshop funnel (Instagram + Facebook)","engines":{"node":">=18"},"main":"src/server.js","name":"alexkouba-comment-to-dm","scripts":{"start":"node src/server.js","test":"bash scripts/selftest.sh"},"type":"module","version":"1.0.0"}
